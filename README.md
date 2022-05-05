@@ -8,3 +8,9 @@ O(n^2)
 Worst Case: O(n^2) Avarage Case: O(n^2) Best Case: O(n)
 - Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Average case
+------------
+## Project 2 - Merge Sort
+- [16,21,11,8,12,22] dizinin sort türüne göre aşamalarını yazınız.
+[8,11,12,16,21,22]
+- Big-O gösterimini yazınız.
+O(nLogn)
